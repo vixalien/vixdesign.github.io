@@ -1,0 +1,53 @@
+@import "variables"
+
+html, body {
+  margin: 0;
+  padding 0
+}
+
+body {
+  font-size: 1rem;
+  background: #fff;
+  padding: 0.5rem;
+}
+
+p {
+  font-size: inherit;
+}
+
+h1, h2, h3, h4, h5, h6
+	margin-top 0
+	
+// demos
+.demo
+	a&-a
+		color link !important
+		padding 0
+		margin 0
+		border 0
+		text-decoration underline
+		&.hover
+			text-decoration none
+		&.active, &.focus
+			background-color link-active !important
+		&.visited
+			color link-v !important
+			&.active, &.focus
+				background-color link-v-active !important
+	&-font
+		&-open
+			font-family "Open Sans"
+		&-raleway
+			font-family "Raleway"
+		&-montserrat
+			font-family "Montserrat"
+		&-metrophobic
+			font-family "Metrophobic"
+		&-quicksand
+			font-family "Quicksand"
+.flex.demo
+	border 1px solid
+	& *
+		margin auto 0 auto 10px
+	&.demo-v
+		max-width 200px

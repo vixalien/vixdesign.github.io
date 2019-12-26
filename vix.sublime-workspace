@@ -1,0 +1,1323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"primary",
+				"primary"
+			],
+			[
+				"back",
+				"background-color\tstyl"
+			],
+			[
+				"tra",
+				"transition\tstyl"
+			],
+			[
+				"mar",
+				"margin-top\tstyl"
+			],
+			[
+				"fo",
+				"font-family\tstyl"
+			],
+			[
+				"url",
+				"url_for"
+			],
+			[
+				"doc",
+				"doca_params"
+			],
+			[
+				"acc",
+				"accepted_by"
+			],
+			[
+				"p",
+				"primary-light"
+			],
+			[
+				"pri",
+				"primary-medium"
+			],
+			[
+				"le",
+				"leave_params"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"key",
+				"keyCode\tproperty"
+			],
+			[
+				"getEle",
+				"getElementsByClassName\tmethod"
+			],
+			[
+				"fu",
+				"function\tkeyword"
+			],
+			[
+				"close",
+				"closeOpenDialogs\tfunction"
+			],
+			[
+				"add",
+				"addEventListener\tmethod"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"side",
+				"sidebar-toggler"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"po",
+				"position\tproperty"
+			],
+			[
+				"re",
+				"redish"
+			],
+			[
+				"function",
+				"Function\tvar"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"a",
+				"auto\tpointer-events"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"g",
+				"globalThis\tmodule"
+			],
+			[
+				"set",
+				"setTimeout\tfunction"
+			],
+			[
+				"anim",
+				"animation-duration\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"c",
+				"clog\tconsole log"
+			],
+			[
+				"overflo",
+				"overflow-x\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"anima",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"pend",
+				"pend_params"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"for",
+				"for\tAttr"
+			],
+			[
+				"sma",
+				"smaller\tfont-size"
+			],
+			[
+				"logi",
+				"login_params"
+			],
+			[
+				"cl",
+				"click-err"
+			],
+			[
+				"ge",
+				"get\tGet Elements"
+			],
+			[
+				"res",
+				"resetErr"
+			],
+			[
+				"err",
+				"error_password"
+			],
+			[
+				"chec",
+				"check_params"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"dia",
+				"dialogshadows"
+			],
+			[
+				"dial",
+				"dialogcloses"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			],
+			[
+				"op",
+				"opendialogs"
+			],
+			[
+				"clos",
+				"closeOpenDialogs"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"not",
+				"notif"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"pare",
+				"parentElement"
+			],
+			[
+				"animation",
+				"animation-direction\tproperty"
+			],
+			[
+				"animationi",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"off",
+				"offsetWidth"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"grid-c",
+				"grid-column\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"ani",
+				"animation-duration\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"spaci",
+				"letter-spacing\tproperty"
+			],
+			[
+				"link",
+				"link-demo"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tet",
+				"text-decoration\tproperty"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"co",
+				"content\tTag"
+			],
+			[
+				"ma",
+				"management"
+			],
+			[
+				"grid-co",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"after",
+				"afterAttrName"
+			],
+			[
+				"attr",
+				"attrName"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"em",
+				"emitToken"
+			],
+			[
+				"emi",
+				"emitToken"
+			],
+			[
+				"before",
+				"beforeAttrName"
+			],
+			[
+				"afterAttr",
+				"afterAttrValQt"
+			],
+			[
+				"attrV",
+				"attrValDblQt"
+			],
+			[
+				"att",
+				"attrName"
+			],
+			[
+				"be",
+				"beforeAttrName"
+			],
+			[
+				"emit",
+				"emitToken"
+			],
+			[
+				"bo",
+				"bogusComment"
+			],
+			[
+				"un",
+				"unless\tunless … end"
+			],
+			[
+				"atte",
+				"attendances"
+			],
+			[
+				"curr",
+				"current_user"
+			],
+			[
+				"en",
+				"encrypted"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"pen",
+				"pend_params"
+			],
+			[
+				"usre",
+				"username"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"boo",
+				"bootsnap"
+			],
+			[
+				"ver",
+				"very-light"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"sec",
+				"secondary-medium"
+			],
+			[
+				"fore",
+				"foreground-lighter"
+			],
+			[
+				"se",
+				"secondary-light"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"background-d",
+				"background-dark"
+			],
+			[
+				"prim",
+				"primary-medium"
+			],
+			[
+				"seco",
+				"secondary-medium"
+			],
+			[
+				"prima",
+				"primary-light"
+			],
+			[
+				"pr",
+				"primary-dark"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Alien/Downloads/csstools-sanitize.css-8.0.0-10-g5bd695f.tar/csstools-sanitize.css-8.0.0-10-g5bd695f/csstools-sanitize.css-5bd695f/README.md",
+			"settings":
+			{
+				"buffer_size": 7638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docs/index.html",
+			"settings":
+			{
+				"buffer_size": 595,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "docs/medium/buttons.html",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "docs/medium/links.html",
+			"settings":
+			{
+				"buffer_size": 679,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/stylus/medium.styl",
+			"settings":
+			{
+				"buffer_size": 73,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/stylus/medium/links.styl",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/stylus/medium/buttons.styl",
+			"settings":
+			{
+				"buffer_size": 699,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/stylus/variables.styl",
+			"settings":
+			{
+				"buffer_size": 1011,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n\t/*\n\t\tThe directories you would like to include in $PATH environment variable.\n\t\tUse this if your node installation is at a seperate location and getting errors such as `cannot find node executable`\n\n\t\texample:\n\t\t\"envPATH\": \"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\"\n\t*/\n\t\"envPATH\": \"\",\n\n\n\t/*\n\t\tThe directory containing your stylus binary. Usually\n\t\t/usr/local/bin or /usr/bin.\n\t*/\n\t\"binDir\": \"/usr/local/bin\",\n\n\n\t/*\n\t\t## Enable Compiling on save. It will compile into the same folder.\n\t*/\n\t\"compileOnSave\": false,\n\n\n\t/*\n\t\t## Enable compiling to a specific directory.\n\t\t#### Description\n\n\t\tif it is a string like 'some/directory' then `-o some/directory` will be added to `stylus` compiler.\n\t\tif it is false or not string then it will compile your `style.stylus` to the directory it is in.\n\n\t\t#### Example:\n\t\tDirectory is relative to the file you are editing if specified such as\n\t\t\tcompileDir\": \"out\"\n\t\tDirectory is absolute if specified such as\n\t\t\tcompileDir\": \"/home/logan/Desktop/out\"\n\t*/\n\t\"compileDir\": false,\n\n\n\t/*\n\t\tEnable css compression\n\t*/\n\t\"compress\": false,\n\n\t/*\n\t\tEnable autoprefixer\n\t\tSee https://www.npmjs.com/package/autoprefixer-stylus\n\t*/\n\t\"useAutoPrefixer\": false,\n\n\t/*\n\t\t## Enable compiling to a specific relative directories.\n\n\t\t#### Example:\n\t\tSet absolute path for compile dir:\n\t\t\t\"compileDir\": \"/home/user/projects/css\"\n\t\tAnd specified folders\n\t\t\t\"relativeDir\": \"/home/user/projects/stylus\"\n\t\t\t\"compilePaths\":\n\t\t\t{\n\t\t\t\t\"/home/user/projects/stylus\": \"/home/user/projects/first/css\",\n\t\t\t\t\"/home/user/projects/second/stylus\": \"../css\",\n\t\t\t}\n\n\t\tSo\n\t\t\t\"/home/user/projects/stylus/app.stylus\" will compile to \"/home/user/projects/first/css/app.css\"\n\t\t\t\"/home/user/projects/stylus/models/prod.stylus\" will compile to \"/home/user/projects/first/css/models/prod.css\"\n\t\t\t\"/home/user/projects/stylus/second/stylus/app2.stylus\" will compile to \"/home/user/projects/second/css/app2.css\"\n\t\t\t\"/home/user/projects/main.stylus\" will compile to \"/home/user/projects/css/main.css\"\n\n\t*/\n\t\"compilePaths\": false\n}\n",
+			"file": "/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/Stylus/Stylus.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 2038,
+				"line_ending": "Windows",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Build & Run"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"typesc",
+				"TypeScript: Show Error List"
+			],
+			[
+				"typpesc",
+				"TypeScript: Request Code Fixes"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownl",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"1+2",
+			"about",
+			"help",
+			"python",
+			"yaml",
+			"import yaml",
+			"clear",
+			"cls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sites/vix",
+		"/C/Sites/vix/css",
+		"/C/Sites/vix/css/raw",
+		"/C/Sites/vix/css/raw/bundles",
+		"/C/Sites/vix/css/stylus",
+		"/C/Sites/vix/css/stylus/medium",
+		"/C/Sites/vix/docs",
+		"/C/Sites/vix/docs/medium"
+	],
+	"file_history":
+	[
+		"/C/Sites/vix/css/stylus/normalize.styl",
+		"/C/Sites/vix/css/raw/bundles/ui.bundle.css",
+		"/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/User/Stylus.sublime-settings",
+		"/C/Sites/vix/css/stylus/fonts.styl",
+		"/C/Sites/vix/css/raw/normalize/forms.css",
+		"/C/Sites/vix/css/stylus/bundles/omni.bundle.styl",
+		"/C/Sites/vix/css/stylus/bundles/ui.bundle.styl",
+		"/C/Sites/vix/css/stylus/bundles/app.bundle.styl",
+		"/C/Sites/vix/css/stylus/medium.styl",
+		"/C/Sites/vix/css/raw/font-load.css",
+		"/C/Sites/vix/css/stylus/app.styl",
+		"/C/Sites/vix/docs/buttons.html",
+		"/C/Sites/vix/index.html",
+		"/C/Sites/vix/css/app.css",
+		"/C/Sites/vix/css/raw/bundles/omni.bundle.css",
+		"/C/Sites/vixc/css/fonts.css",
+		"/C/Sites/vix/css/raw/normalize/page.css",
+		"/C/Sites/vix/css/stylus/ui.styl",
+		"/C/Sites/vix/css/app/fonts.css",
+		"/C/Sites/vix/css/fonts.css",
+		"/C/Sites/vix/vix.sublime-project",
+		"/C/Users/Alien/Downloads/Documents/management.pdf",
+		"/C/Users/Alien/Downloads/management(2).pdf",
+		"/C/Users/Alien/Downloads/management(1).pdf",
+		"/C/Users/Alien/Downloads/management.pdf",
+		"/C/Sites/rwarrims/.git/COMMIT_EDITMSG",
+		"/C/Sites/rwarrims/app/views/documents/new.html.erb",
+		"/C/Sites/rubyfiles/some.pdf",
+		"/C/Sites/rubyfiles/hello.txt",
+		"/C/Sites/rwarrims/app/views/leaves/accepted.html.erb",
+		"/C/Sites/rwarrims/app/views/leaves/refused.html.erb",
+		"/C/Sites/rwarrims/app/views/leaves/pending.html.erb",
+		"/C/Sites/rwarrims/app/assets/stylesheets/inside.css",
+		"/C/Sites/rwarrims/app/models/user.rb",
+		"/C/Sites/rwarrims/app/views/leaves/all.html.erb",
+		"/C/Sites/rwarrims/app/views/documents/all.html.erb",
+		"/C/Sites/rwarrims/app/views/leaves/new.html.erb",
+		"/C/Sites/rwarrims/app/views/leaves/index.html.erb",
+		"/C/Users/Alien/Downloads/High Quality Print.joboptions",
+		"/C/Sites/rwarrims/app/assets/stylesheets/master.css.erb",
+		"/C/Sites/rwarrims/app/models/leave.rb",
+		"/C/Sites/rwarrims/app/controllers/profile_controller.rb",
+		"/C/Sites/rwarrims/app/models/document.rb",
+		"/C/Users/Alien/Downloads/guides/guides/source/association_basics.md",
+		"/C/Sites/rwarrims/app/views/layouts/dashboard.html.erb",
+		"/C/Sites/rwarrims/app/controllers/documents_controller.rb",
+		"/C/Sites/rwarrims/app/controllers/leaves_controller.rb",
+		"/C/Sites/rwarrims/app/assets/stylesheets/dash.css",
+		"/C/Sites/rwarrims/.git/TAG_EDITMSG",
+		"/C/Sites/rwarrims/app/views/profile/password.html.erb",
+		"/C/Sites/rwarrims/app/helpers/application_helper.rb",
+		"/C/Users/Alien/Downloads/guides/guides/source/form_helpers.md",
+		"/C/Users/Alien/Downloads/guides/guides/source/active_storage_overview.md",
+		"/C/Users/Alien/Downloads/guides/guides/source/_license.html.erb",
+		"/C/Users/Alien/Downloads/guides/guides/source/kindle/copyright.html.erb",
+		"/C/Users/Alien/Downloads/guides/guides/source/kindle/toc.html.erb",
+		"/C/Users/Alien/Downloads/guides/guides/source/active_record_validations.md",
+		"/C/Sites/rwarrims/app/assets/stylesheets/application.css",
+		"/C/Sites/rwarrims/app/views/attmg/weekly.html.erb",
+		"/C/Sites/rwarrims/app/controllers/attendance_controller.rb",
+		"/C/Sites/rwarrims/app/assets/stylesheets/style.styl",
+		"/C/Sites/rwarrims/app/helpers/leaves_helper.rb",
+		"/C/Users/Alien/Downloads/guides/guides/source/getting_started.md",
+		"/C/Sites/rwarrims/db/migrate/20191218175453_create_leaves.rb",
+		"/C/Sites/rui/root/login.html",
+		"/C/Sites/rui/css/nav.css",
+		"/C/Sites/rui/root/dashboard.html",
+		"/C/Sites/rui/js/nav.ts",
+		"/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Sites/rui/root/index.html",
+		"/C/Users/Alien/Downloads/Compressed/jerryscript-project-jerryscript-v2.1.0-144-g5ceffd2.tar/jerryscript-project-jerryscript-v2.1.0-144-g5ceffd2/jerryscript-project-jerryscript-5ceffd2/CMakeLists.txt",
+		"/C/Users/Alien/Desktop/ultralight/CMakeFiles/CMakeError.log",
+		"/C/Users/Alien/Desktop/stupidak/Download/B2G-master/B2G-master/README.md",
+		"/C/Sites/rui/manifest.webapp",
+		"/C/Sites/rui/css/dashboard.css",
+		"/C/Sites/rui/css/login.css",
+		"/C/grub2/userfiles/user.configs/Slitaz.cfg",
+		"/C/grub2/grub.cfg",
+		"/C/Users/Alien/Desktop/windows fix",
+		"/C/Users/Alien/Desktop/stupidak/Download/B2G-master/B2G-master/build.sh",
+		"/C/Users/Alien/Desktop/quora info",
+		"/C/Users/Alien/Desktop/stupidak/Download/B2G-master/B2G-master/GNUmakefile",
+		"/C/Users/Alien/Downloads/Compressed/duktape-2.4.0.tar/duktape-2.4.0/mandel.js",
+		"/C/Sites/rui/root/login-form.html",
+		"/C/Sites/rui/css/main.css",
+		"/C/Users/Alien/Downloads/Compressed/tkaleas-cpp-sandbox-9501619.tar/tkaleas-cpp-sandbox-9501619/tkaleas-cpp-sandbox-9501619/README.md",
+		"/C/Sites/rapi/.git/COMMIT_EDITMSG",
+		"/C/Sites/rui/.git/COMMIT_EDITMSG",
+		"/C/Sites/rui/js/.git/COMMIT_EDITMSG",
+		"/C/Sites/rui/js/nav.js",
+		"/C/Users/Alien/AppData/Local/Apps/2.0/9KH6WEWA.EP0/75PLRP0G.O2Z/manifests/wall...exe_83053643348597fc_0001.0000_none_a78a86c27d1a7acf.manifest",
+		"/C/h",
+		"/C/w",
+		"/C/Sites/rui/$1",
+		"/C/Sites/rui/subl.bat",
+		"/C/Sites/rui/css/app.css",
+		"/C/Sites/rmsp/css/ionicons.min.css",
+		"/C/Sites/rui/css/ionicons.min.css",
+		"/D/home/ionic-team-ionicons-v4.6.3-40-g5f31f27/ionic-team-ionicons-5f31f27/src/components/icon/icon.css",
+		"/D/home/ionic-team-ionicons-v4.6.3-40-g5f31f27/ionic-team-ionicons-5f31f27/docs/css/ionicons.min.css",
+		"/C/Users/Alien/Downloads/Compressed/css-custom-range-slider-0002/css-custom-range-slider/dist/index.html",
+		"/C/Users/Alien/Downloads/Compressed/tkaleas-cpp-sandbox-9501619.tar/tkaleas-cpp-sandbox-9501619/tkaleas-cpp-sandbox-9501619/build.bat",
+		"/C/Users/Alien/Downloads/Compressed/css-custom-range-slider-0002/css-custom-range-slider/dist/script.js",
+		"/C/Users/Alien/Downloads/Compressed/tkaleas-cpp-sandbox-9501619.tar/tkaleas-cpp-sandbox-9501619/tkaleas-cpp-sandbox-9501619/test_books.txt",
+		"/C/Sites/rwarrims/app/assets/stylesheets/login.css",
+		"/C/Users/Alien/Downloads/guides/guides/source/api_app.md",
+		"/C/Users/Alien/Downloads/guides/guides/source/rails_on_rack.md",
+		"/C/Sites/rwarrims/config/environments/production.rb",
+		"/C/Users/Alien/Downloads/Compressed/ultralight-ux-WebCore-4b225a9.tar/ultralight-ux-WebCore-4b225a9/ultralight-ux-WebCore-4b225a9/README.md",
+		"/C/Users/Alien/Downloads/Compressed/stylus-lang.com-gh-pages/Gemfile",
+		"/C/Sites/rwarrims/app/models/session.rb",
+		"/C/Sites/rwarrims/db/migrate/20191212071212_add_session_ref_to_attendance.rb",
+		"/C/Users/Alien/Downloads/Compressed/stylus-lang.com-gh-pages/.gitmodules",
+		"/C/Users/Alien/Downloads/Compressed/stylus-lang.com-gh-pages/Makefile",
+		"/C/Sites/rwarrims/log/production.log",
+		"/C/Sites/rwarrims/app/models/attendance.rb",
+		"/C/Sites/rwarrims/public/422.html",
+		"/C/Sites/rwarrims/public/500.html",
+		"/C/Sites/rwarrims/app/views/session/signup.html.erb",
+		"/C/Sites/rwarrims/README.md",
+		"/C/Sites/rwarrims/config/application.rb",
+		"/C/Sites/rwarrims/config/database.yml",
+		"/C/Sites/rwarrims/app/views/session/login.html.erb",
+		"/C/Sites/rwarrims/app/views/profile/idcard.html.erb",
+		"/C/Sites/rwarrims/app/views/profile/names.html.erb"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../",
+			"'/data",
+			"../f",
+			"../data",
+			"https://fonts.gstatic.com/s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"'../data",
+			"/data/fonts",
+			"../data/fonts",
+			"../data",
+			"../data/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Alien/Downloads/csstools-sanitize.css-8.0.0-10-g5bd695f.tar/csstools-sanitize.css-8.0.0-10-g5bd695f/csstools-sanitize.css-5bd695f/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7638,
+								7638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "docs/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "docs/medium/buttons.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "docs/medium/links.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/stylus/medium.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/stylus/medium/links.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/stylus/medium/buttons.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/stylus/variables.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/Stylus/Stylus.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2038,
+								2038
+							]
+						],
+						"settings":
+						{
+							"mini_diff": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 33.0
+	},
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "vix.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 414.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

@@ -1,0 +1,19 @@
+// layout
+.container
+	& *
+		max-width 800px
+		margin 0 auto
+	&.small *
+		max-width 600px
+.flex
+	display flex
+	& *
+		height auto
+		margin auto 0
+	& .tab
+		flex 1
+	&.vertical
+		flex-direction column
+		& *
+			margin 0
+			text-align left
