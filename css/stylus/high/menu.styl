@@ -2,17 +2,22 @@ block-color ?= primary
 alt-color ?= secondary
 
 /* Menu */
-.menu
+.menu, .menu-drop
 	border 2px solid alt-color
 	list-style none
 	padding-left 0
 	width max-content
+	background-color back
+	*
+		padding .5em
+		margin 0
 	li
 		cursor pointer
-		padding .5em
 		&:hover
 			background-color lighten(alt-color, 60%)
 .menu-drop
+	margin 0
+	position absolute
 	display none
 	&[open]
 		display block

@@ -544,6 +544,12 @@ a:visited:active,
 a:visited:focus {
   background-color: rgba(149,43,185,0.2);
 }
+hr {
+  width: auto;
+  height: 2px;
+  background: #bdbdbd;
+  border: 0;
+}
 .container * {
   max-width: 800px;
   margin: 0 auto;
@@ -568,24 +574,118 @@ a:visited:focus {
   margin: 0;
   text-align: left;
 }
-.menu {
+.menu,
+.menu-drop {
   border: 2px solid #bdbdbd;
   list-style: none;
   padding-left: 0;
   width: max-content;
+  background-color: #fff;
 }
-.menu li {
-  cursor: pointer;
+.menu *,
+.menu-drop * {
   padding: 0.5em;
+  margin: 0;
 }
-.menu li:hover {
+.menu li,
+.menu-drop li {
+  cursor: pointer;
+}
+.menu li:hover,
+.menu-drop li:hover {
   background-color: #e5e5e5;
 }
 .menu-drop {
+  margin: 0;
+  position: absolute;
   display: none;
 }
 .menu-drop[open] {
   display: block;
+}
+dialog {
+  border: 2px solid #bdbdbd;
+  display: none;
+}
+dialog[open] {
+  display: block;
+  position: absolute;
+  max-width: 600px;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  min-width: 320px;
+}
+dialog::backdrop {
+  background-color: rgba(229,229,229,0.8);
+}
+.notif {
+  width: 100%;
+  min-height: 2rem;
+  font-size: 1rem;
+  font-family: "Metrophobic";
+  text-align: center;
+  font-weight: 200;
+  display: inline-block;
+  background-color: #ededf0;
+  border: 0.1rem solid #000;
+}
+.notif > *:not(button) {
+  margin: 0.5rem;
+}
+.notif > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+.notif::before {
+  border: 0;
+  content: 'x';
+  cursor: pointer;
+  background: url("/img/close.svg") center center no-repeat;
+  background-color: rgba(0,0,0,0.1);
+  color: transparent !important;
+  float: right;
+  width: 2.5em;
+  height: 2.5em;
+}
+.notif.notif-float {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+  width: 50vw;
+}
+.notif .notif[closed] {
+  animation: disappear 2s;
+  display: none;
+}
+.notif::before:hover {
+  background-color: rgba(0,0,0,0.2) !important;
+  transition: 0.3s;
+}
+.notif-success {
+  background-color: #88ffd1;
+}
+.notif-warning {
+  background-color: #ffea80;
+}
+.notif-error {
+  background-color: #ff6a75;
+}
+.notif-important {
+  background-color: #0060df;
+  color: #fff;
+}
+.notif-important > button {
+  filter: invert(100%);
+}
+@media all and (max-width: 720px) {
+  .notif::before {
+    background-color: transparent !important;
+  }
+  .notif.notif-float {
+    width: calc(100% - 2rem);
+  }
 }
 html,
 body {
