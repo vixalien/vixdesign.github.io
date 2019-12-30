@@ -35,19 +35,23 @@ h1, h2, h3, h4, h5, h6
 			&.active, &.focus
 				background-color link-v-active !important
 	&-font
-		&-open
-			font-family "Open Sans"
-		&-raleway
-			font-family "Raleway"
-		&-montserrat
-			font-family "Montserrat"
-		&-metrophobic
-			font-family "Metrophobic"
-		&-quicksand
-			font-family "Quicksand"
+		&-antipode
+			font-family "Antipode"
+		&-philippa
+			font-family "Philippa"
+	&-notif
+		& > *
+			margin-bottom 0
+			margin-left 1px
+		@media all and (max-width: 600px)
+			flex-direction column
+			& *
+				margin-left 0
+				margin-bottom 1px
 .flex.demo
 	border 1px solid
 	& *
 		margin auto 0 auto 10px
 	&.demo-v
 		max-width 200px
+		

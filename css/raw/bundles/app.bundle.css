@@ -42,20 +42,24 @@ a.demo-a.visited.active,
 a.demo-a.visited.focus {
   background-color: rgba(149,43,185,0.2) !important;
 }
-.demo-font-open {
-  font-family: "Open Sans";
+.demo-font-antipode {
+  font-family: "Antipode";
 }
-.demo-font-raleway {
-  font-family: "Raleway";
+.demo-font-philippa {
+  font-family: "Philippa";
 }
-.demo-font-montserrat {
-  font-family: "Montserrat";
+.demo-notif > * {
+  margin-bottom: 0;
+  margin-left: 1px;
 }
-.demo-font-metrophobic {
-  font-family: "Metrophobic";
-}
-.demo-font-quicksand {
-  font-family: "Quicksand";
+@media all and (max-width: 600px) {
+  .demo-notif {
+    flex-direction: column;
+  }
+  .demo-notif * {
+    margin-left: 0;
+    margin-bottom: 1px;
+  }
 }
 .flex.demo {
   border: 1px solid;
